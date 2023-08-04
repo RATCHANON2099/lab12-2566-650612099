@@ -78,7 +78,7 @@ export default function HomePage() {
           <Controller />
         </LangContext.Provider>
       </ThemeContext.Provider>
-      <Footer year="2023" fullName="Phurinon Foeythika" studentId="650610800" />
+      <Footer year="2023" fullName="Ratchanon Chunsakunee" studentId="650612099" />
     </div>
   );
 }
